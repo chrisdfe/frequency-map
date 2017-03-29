@@ -1,0 +1,23 @@
+{
+  "name": "frequency-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdfe/frequency-map.git"
+  },
+  "keywords": [
+    "music",
+    "notes",
+    "musical",
+    "frequencies"
+  ],
+  "author": "chrisdfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdfe/frequency-map/issues"
+  },
+  "homepage": "https://github.com/chrisdfe/frequency-map#readme"
+}
