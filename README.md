@@ -7,3 +7,7 @@ A map of every musical note to its frequency
 ```
 npm install frequency-map
 ```
+
+## Usage
+
+TODO
