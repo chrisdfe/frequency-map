@@ -1,7 +1,7 @@
 {
   "name": "frequency-map",
   "version": "1.0.0",
-  "description": "",
+  "description": "A map of each musical note and its frequency",
   "main": "index.js",
   "scripts": { },
   "repository": {
