@@ -8,12 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/chrisdfe/frequency-map.git"
   },
-  "keywords": [
-    "music",
-    "notes",
-    "musical",
-    "frequencies"
-  ],
+  "keywords": [],
   "author": "chrisdfe",
   "license": "ISC",
   "bugs": {
