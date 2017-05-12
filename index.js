@@ -1,3 +1,1 @@
-const { FrequencyMap } = require('./lib');
-
-module.exports = FrequencyMap;
+module.exports = require('./maps/default');

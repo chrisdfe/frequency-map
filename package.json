@@ -1,9 +1,9 @@
 {
   "name": "frequency-map",
-  "version": "1.0.0",
-  "description": "A map of each musical note and its frequency",
+  "version": "1.1.0",
+  "description": "A map of each musical note to its frequency",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chrisdfe/frequency-map.git"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chrisdfe/frequency-map/issues"
   },
-  "homepage": "https://github.com/chrisdfe/frequency-map#readme"
+  "homepage": "https://github.com/chrisdfe/frequency-map#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
 }
