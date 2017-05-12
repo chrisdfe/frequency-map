@@ -1,6 +1,6 @@
 {
   "name": "frequency-map",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A map of each musical note to its frequency",
   "main": "index.js",
   "scripts": {},
